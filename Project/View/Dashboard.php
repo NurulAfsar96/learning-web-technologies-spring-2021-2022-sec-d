@@ -23,7 +23,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <a href="hotel.php" target="_blank">Hotels</a>
+                                <a href="Hotel.php" target="_blank">Hotels</a>
                             </td>
                         </tr>
                         <tr>
@@ -37,7 +37,7 @@
                         </tr>
                        
                         <tr>
-                            <td><a href="../Controller/logout.php" target="_blank">Logout</a></td>
+                            <td><a href="../Controller/Logout.php" target="_blank">Logout</a></td>
                         </tr>
                     </table>
 
